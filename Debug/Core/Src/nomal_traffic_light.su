@@ -1,0 +1,14 @@
+nomal_traffic_light.c:23:6:Phase1_GreenOn	8	static
+nomal_traffic_light.c:26:6:Phase1_GreenOff	8	static
+nomal_traffic_light.c:30:6:Phase1_YellowOn	8	static
+nomal_traffic_light.c:33:6:Phase1_YellowOff	8	static
+nomal_traffic_light.c:37:6:Phase1_RedOn	8	static
+nomal_traffic_light.c:40:6:Phase1_RedOff	8	static
+nomal_traffic_light.c:44:6:Phase2_GreenOn	8	static
+nomal_traffic_light.c:47:6:Phase2_GreenOff	8	static
+nomal_traffic_light.c:51:6:Phase2_YellowOn	8	static
+nomal_traffic_light.c:54:6:Phase2_YellowOff	8	static
+nomal_traffic_light.c:58:6:Phase2_RedOn	8	static
+nomal_traffic_light.c:61:6:Phase2_RedOff	8	static
+nomal_traffic_light.c:64:6:Led_Off	8	static
+nomal_traffic_light.c:72:6:normal_trafic	8	static
